@@ -1,1 +1,0 @@
-# functional-and-logic-programming-extra
